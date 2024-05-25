@@ -1,0 +1,22 @@
+*{
+background-color: pink;
+}
+.yo1{
+color: rgb(226, 55, 83);
+text-align: center;
+text-transform: uppercase;
+letter-spacing: 10px;
+word-spacing: 20px;
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.main{
+    text-align: center;
+}
+.mac{
+    color:palevioletred;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
